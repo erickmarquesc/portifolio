@@ -70,6 +70,7 @@ export default function RootLayout({
               alt="Next.js logo"
               width={80}
               height={80}
+              className="h-auto w-20"
               priority
             />
             <button className="bg-[#4B2DBB] text-white px-4 py-1 rounded-lg">
